@@ -5,14 +5,14 @@ st.set_page_config(page_title="For You ❤️", page_icon="💖")
 
 name = "Pouruuuu"  # change
 
-photo1 = r"C:\Users\Shweta\Downloads\Snapchat-1679850145.jpg"
-photo2 = r"C:\Users\Shweta\Downloads\IMG20260204170954.jpg"
-photo3 = r"C:\Users\Shweta\Downloads\IMG-20260114-WA0123.jpeg"
-photo4 = r"C:\Users\Shweta\Downloads\IMG20250925135108.jpg"
-photo5 = r"C:\Users\Shweta\Downloads\IMG-20260223-WA0054.jpg"
+photo1 = "IMG-20260114-WA0123.jpeg"
+photo2 = "IMG-20260223-WA0054.jpg"
+photo3 = "IMG20250925135108.jpg"
+photo4 = "IMG20260204170954.jpg"
+photo5 = "Snapchat-1679850145.jpg"
 
 
-music_file = r"C:\Users\Shweta\Downloads\Standard recording 3.mp3"
+music_file = "Standard recording 3.mp3"
 
 stored_hash = "202178ea4189d11c52dd1082d6f8a52032e7eea51122d7f8f1e46d8fdc54e744"
 
